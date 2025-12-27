@@ -1,7 +1,7 @@
 # Open-Vocab Segmentation Lab
 **Multimodal, Promptable, Open-set, and Continual Segmentation in Medical Images**
 
-![alt text](image-1.png)Very first architecture(just imaginary!)
+![alt text](architecture.png)Very first architecture(just imaginary!)
 
 ## **Motivation**
 Segmentation models often fail in real-world scenarios where:
@@ -19,3 +19,7 @@ Segmentation models often fail in real-world scenarios where:
 **Continual Learning Observations**
 
 **Open-set Observations**
+
+**Paper review**
+
+See [reference papers](reviewed_paper.md)

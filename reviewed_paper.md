@@ -12,6 +12,7 @@
  
 
 # Segmentation 
+Currently, I am interested to explore on panoptic segmentation.
 
 # Continual learning
 Hi, Few day ago , I had read a paper and had uploaded a video on youtube . I have put link here.[https://youtu.be/6wBcMaWkn0o?si=enprwIF0ojLM9Xm2]

@@ -9,12 +9,12 @@
 
 # Few-shot adaptation 
 
-# Multimodal 
+ 
 
 # Segmentation 
 
 # Continual learning
-
+Hi, Few day ago , I had read a paper and had uploaded a video on youtube . I have put link here.[https://youtu.be/6wBcMaWkn0o?si=enprwIF0ojLM9Xm2]
 # Open-set 
 
 # Others 
